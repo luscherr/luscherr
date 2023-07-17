@@ -1,7 +1,13 @@
 ## 👋 Hi there, I am Lucila Scherr
 Software Engineer from Argentina, currently living in Australia focused on Frontend Development and UX/UI Design.  
-As a technology lover, I continuously seek opportunities to expand my knowledge and devise innovative and aesthetically pleasing solutions that optimize both the user and developer experience.
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/lucilascherr/)
+As a technology lover, I continuously seek opportunities to expand my knowledge and devise innovative and aesthetically pleasing solutions that optimize both the user and developer experience.  
+
+<h1 align="center">
+  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucilascherr/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luscherr/)
+
+</h1>
 
 ### 
 
